@@ -1,0 +1,22 @@
+{
+  "name": "node_with_react",
+  "version": "1.0.0",
+  "description": "NodeJS with React MS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhelio77/node_with_react.git"
+  },
+  "author": "Delio Ancheta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhelio77/node_with_react/issues"
+  },
+  "homepage": "https://github.com/dhelio77/node_with_react#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
